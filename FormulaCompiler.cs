@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 编译产物载体 / Compiled formula payload.

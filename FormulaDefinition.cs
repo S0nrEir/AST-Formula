@@ -1,4 +1,4 @@
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 公式配置定义（最小字段集） / Formula configuration definition (minimal schema).

@@ -1,4 +1,4 @@
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 公式引擎错误码常量 / Error code constants for formula engine.

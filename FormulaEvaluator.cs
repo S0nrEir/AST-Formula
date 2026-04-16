@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 公式运行时求值器 / Runtime formula evaluator.

@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 公式语法树根节点包装 / Formula AST root wrapper.

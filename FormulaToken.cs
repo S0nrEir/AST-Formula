@@ -1,4 +1,4 @@
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 词法单元类型定义 / Token type definitions.

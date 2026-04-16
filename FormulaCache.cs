@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 公式缓存键（formulaId + sourceHash + version） / Formula cache key (formulaId + sourceHash + version).

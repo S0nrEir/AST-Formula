@@ -1,4 +1,4 @@
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 公式执行结果 / Formula execution result.

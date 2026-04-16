@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 公式词法分析器 / Formula tokenizer.

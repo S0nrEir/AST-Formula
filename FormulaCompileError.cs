@@ -1,4 +1,4 @@
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 公式编译错误模型 / Formula compile error model.

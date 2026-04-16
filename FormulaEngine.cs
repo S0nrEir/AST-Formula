@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 公式引擎门面（编译+缓存+执行） / Formula engine facade (compile + cache + evaluate).

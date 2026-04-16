@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 内置函数元数据定义 / Built-in function metadata definition.

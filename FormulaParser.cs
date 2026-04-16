@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 公式语法分析器（递归下降） / Formula parser (recursive descent).

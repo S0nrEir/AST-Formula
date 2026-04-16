@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Aquila.Formula
+namespace Formula
 {
     /// <summary>
     /// 语义校验器（变量/函数/参数） / Semantic validator (variables/functions/arguments).
